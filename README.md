@@ -34,13 +34,4 @@ pip install opencv-python numpy
 python segmentation.py
 ```
 
-   - **Original Image**: The original image you provided.
-   - **Thresholded Image**: The binary image after applying Otsu's thresholding.
-   - **Eroded Image**: The image after applying erosion.
-   - **Dilated Image**: The image after applying dilation.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ```

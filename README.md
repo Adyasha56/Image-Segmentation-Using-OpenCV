@@ -34,7 +34,6 @@ pip install opencv-python numpy
 python segmentation.py
 ```
 
-3. The script will display the following images:
    - **Original Image**: The original image you provided.
    - **Thresholded Image**: The binary image after applying Otsu's thresholding.
    - **Eroded Image**: The image after applying erosion.
